@@ -2,11 +2,11 @@ Here's how you can **start a cloud kitchen in Dhanbad**, while keeping time inve
 
 ---
 
-## 📍 1. Best Areas in Dhanbad for Cloud Kitchen**
+## 📍 1. **Best Areas in Dhanbad for Cloud Kitchen**
 
 Target areas with **high delivery demand** + **moderate rent**:
 
-* **Hirapur** – Central, student + office crowd
+* **Hirapur** – Central, student + office crowd, IIT
 * **Saraidhela** – Upper-middle class residential area
 * **Baramuri** – Near schools/colleges, rising food delivery demand
 * **Bank More** – High order volume but slightly higher rent
@@ -128,6 +128,21 @@ Avoid: Desserts (require cold chain), South Indian (equipment-heavy), or Chinese
 * **Pros**: Low to moderate rent, access to affordable labor.
 * **Cons**: Slightly away from the college crowd.
 * **Delivery Reach**: Can cover Saraidhela, Hirapur, and some residential areas.
+
+Zomato and Swiggy typically **target a delivery radius of 5–6 km** from the restaurant/cloud kitchen location.
+
+### 📍How it works:
+
+* **Default radius**: 5 km (for most kitchens)
+* **Can extend** to 7–8 km based on:
+
+  * **Restaurant rating**
+  * **Delivery partner availability**
+  * **Order volume & demand in your area**
+
+### ✅ What to keep in mind:
+
+* You should **choose a location that covers dense residential & office areas** within 5 km.
 
 ---
 
