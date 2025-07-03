@@ -36,7 +36,8 @@ Target areas with **high delivery demand** + **moderate rent**:
 
 * **Biryani Combo Meals** – Easy to prep & package
 * **North Indian Thali (Mini)** – Affordable + daily orders
-* **Fast Food** – Burgers, wraps, rolls
+* **Fast Food** – Burgers, wraps, rolls, momo, manchurian
+* **Tandoori Roti + Chicken Curry** – evening rush item
 * **Local Favourites** – Litti-Chokha with a twist
 
 Avoid: Desserts (require cold chain), South Indian (equipment-heavy), or Chinese (volatile cost).
@@ -65,7 +66,7 @@ Avoid: Desserts (require cold chain), South Indian (equipment-heavy), or Chinese
 ## 📢 6. **Marketing on Budget**
 
 * Swiggy/Zomato deals: Use Boost + ₹200–500 ad/week
-* Local **WhatsApp Status**, Facebook Patna food groups
+* Local **WhatsApp Status**, Facebook Dhanbad food groups
 * Offer **combos & first-order discounts**
 * Partner with **student PGs/hostels** nearby for bulk deals
 

@@ -37,7 +37,8 @@ Target areas with strong food delivery demand but **affordable rent**:
 
 * **Biryani Combo Meals** – Easy to prep & package
 * **North Indian Thali (Mini)** – Affordable + daily orders
-* **Fast Food** – Burgers, wraps, rolls
+* **Fast Food** – Burgers, wraps, rolls, momo, manchurian
+* **Tandoori Roti + Chicken Curry** – evening rush item
 * **Local Favourites** – Litti-Chokha with a twist
 
 Avoid: Desserts (require cold chain), South Indian (equipment-heavy), or Chinese (volatile cost).
