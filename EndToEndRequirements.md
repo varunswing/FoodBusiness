@@ -157,6 +157,21 @@ Here are the top areas in **Patna** that balance **strong food delivery demand**
 * **Rent**: Lower-end.
 * **Competition**: Minimal—fewer established players.
 
+Zomato and Swiggy typically **target a delivery radius of 5–6 km** from the restaurant/cloud kitchen location.
+
+### 📍How it works:
+
+* **Default radius**: 5 km (for most kitchens)
+* **Can extend** to 7–8 km based on:
+
+  * **Restaurant rating**
+  * **Delivery partner availability**
+  * **Order volume & demand in your area**
+
+### ✅ What to keep in mind:
+
+* You should **choose a location that covers dense residential & office areas** within 5 km.
+
 ---
 
 ## 🚫 Areas to Avoid for Budget Setups
