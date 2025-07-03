@@ -281,3 +281,170 @@ To hire a **cook in Dhanbad** for your cloud kitchen, use the following methods:
 **₹60,000 – ₹90,000** for all basic utensils + appliances.
 
 This setup is scalable. You can add more as orders grow.
+
+Here’s an expanded and **appealing menu for Zomato/Swiggy** with variety in **Thali** and **Biryani**—optimized for visibility, variety, and manageable prep with 1 cook + 1 helper:
+
+---
+
+### 🍱 **North Indian Thali – Variants**
+
+1. **Mini Veg Thali** – ₹99
+
+   * Aloo sabzi, dal, rice, 2 roti, salad
+
+2. **Paneer Thali** – ₹129
+
+   * Matar paneer/palak paneer, dal, rice, 2 roti, salad
+
+3. **Special Thali** – ₹149
+
+   * Paneer sabzi, mix veg/aloo sabzi, dal, rice, 2 roti, salad, sweet
+
+4. **Deluxe Thali** – ₹169
+
+   * Shahi Paneer, Dum Aloo, Jeera Rice, 2 Butter Roti, Salad, Gulab Jamun
+
+5. **Executive Thali** – ₹199
+
+   * Paneer Butter Masala, Mix Veg, Dal Tadka, Pulao, 2 Naan, Salad, Sweet
+
+6. **Bihari Thali** – ₹129
+
+   * Litti-Chokha, Ghugni, Baigan Bharta, Tomato Chutney, Raita
+
+---
+
+### 🍛 **Biryani – Variants**
+
+1. **Veg Dum Biryani** – ₹119
+
+   * With dum aloo, raita
+
+2. **Egg Biryani** – ₹129
+
+   * Boiled eggs + masala egg topping, raita
+
+3. **Chicken Biryani (Classic)** – ₹149
+
+   * Boneless or leg piece, raita
+
+4. **Paneer Biryani** – ₹139
+
+   * Spicy masala paneer chunks, raita
+
+5. **Litti Biryani (Fusion Special)** – ₹129
+
+   * Litti tossed in biryani masala, chokha, raita
+
+6. **Kolkata Chicken Biryani** – ₹169
+
+   * With potato & egg, aromatic spices
+
+7. **Special Chicken Dum Biryani Combo** – ₹199
+
+   * Double piece, raita, salad, gulab jamun
+
+---
+
+### 🔥 Tips to Boost Zomato/Swiggy Sales:
+
+* Use **attractive names**: e.g., *"Royal Paneer Thali"*, *"Spicy Hyderabadi Biryani"*
+* Add **combo offers**: Biryani + Drink or Thali + Sweet
+* Highlight **chef’s special** on weekends
+* Include **Photos + Ratings** from customers
+
+## Future Plans to Expand Businees
+
+Here’s your **Cloud Kitchen Expansion Roadmap** (within 5–7L total budget range) as you scale your food business.
+
+### 👨‍🍳 **Staffing Plan**
+
+| Role                               | Count | Monthly Salary (Approx)        | Notes                           |
+| ---------------------------------- | ----- | ------------------------------ | ------------------------------- |
+| Head Cook (North Indian + Biryani) | 1     | ₹18,000–20,000                 | Already hired                   |
+| Assistant Cook / Fryer / Fast food | 1     | ₹12,000–14,000                 | Needed for fast food + starters |
+| Kitchen Helper / Packer            | 1     | ₹8,000–9,000                   | Cleaning, packaging, prep       |
+| Delivery Partner (Part-time)       | 1     | ₹6,000–8,000 (incentive-based) | Use Zomato/Swiggy also          |
+
+➡️ **Total Staffing Cost:** \~₹40,000/month
+
+---
+
+### 🔪 **Additional Equipment Needed for Expansion**
+
+| Item                               | Approx Cost (₹) | Purpose                   |
+| ---------------------------------- | --------------- | ------------------------- |
+| Deep Fryer (Double Tank)           | 6,000–8,000     | Fast food & chicken fry   |
+| Commercial Induction Burner        | 4,000           | Backup stove              |
+| Large Wok & Fry Pans (2–3)         | 2,000           | Chinese & fast food       |
+| Chinese Cooking Utensils Set       | 1,500           | Wok spatulas, strainers   |
+| Refrigerator (Medium)              | 10,000–12,000   | Store perishables         |
+| Working Table + Shelves            | 4,000–5,000     | Prep area                 |
+| Packaging Material (Initial Stock) | 5,000–6,000     | Biryani boxes, containers |
+
+➡️ **Total Equipment Cost:** \~₹40,000–45,000
+
+---
+
+### 🍽️ **Menu Focus for Expansion**
+
+1. **Lunch/Dinner Core:** Thalis, Biryani
+2. **Evening Rush:** Momos, Rolls, Noodles, Starters
+3. **Add Combos:** e.g. *Momos + Thums Up*, *Biryani + Gulab Jamun*
+
+---
+
+### 📦 Monthly Operating Cost Estimate
+
+| Item             | Monthly Cost (₹) |
+| ---------------- | ---------------- |
+| Staff Salaries   | 40,000           |
+| Kitchen Supplies | 25,000           |
+| Rent & Utilities | 12,000           |
+| Packaging        | 6,000            |
+| Misc / Buffer    | 5,000            |
+
+➡️ **Total:** \~₹88,000/month
+
+With **100–150 orders/day @ avg ₹120/order**, you can cross **₹3.5–5L/month revenue** in 2–3 months.
+
+---
+
+As you scale and hire more cooks, here’s how you can **expand your menu smartly** by category. Focus on **high-demand, high-margin items** that are loved across all age groups:
+
+---
+
+### 🍗 **Chicken Special Starters (New Additions)**
+
+Ideal for combos, party orders, evening snacks.
+
+1. **Chicken Lollipop (6 pcs)** – ₹159
+2. **Chicken Manchurian (Dry/Gravy)** – ₹149/159
+3. **Chicken Wings (Spicy/BBQ)** – ₹149
+4. **Crispy Chicken Popcorn** – ₹129
+5. **Chilli Chicken (Dry/Gravy)** – ₹149
+6. **Chicken Pakoda (Desi Style)** – ₹129
+
+---
+
+### 🍜 **Fast Food – Indo-Chinese & Snacks**
+
+Quick prep, high volume, great for youth crowd.
+
+1. **Veg Hakka Noodles** – ₹99
+2. **Chicken Hakka Noodles** – ₹129
+3. **Veg Schezwan Fried Rice** – ₹109
+4. **Chicken Fried Rice** – ₹129
+5. **Spring Roll (Veg/Chicken)** – ₹99/129
+6. **Paneer Wrap** – ₹119
+7. **Chicken Roll (Kolkata Style)** – ₹129
+8. **Aloo Tikki Burger / Paneer Burger / Chicken Burger** – ₹79/109/129
+9. **Momos (Veg/Chicken – Steamed/Fried)** – ₹79/109
+
+---
+
+### 🧠 Strategy for Expansion:
+
+* Hire **1 specialist for Chinese** + **1 tandoor/fryer cook**.
+* Add **evening snack combos** (e.g., momos + drink, noodles + manchurian).
+* Offer **“family pack” or “party platter”** for starters (15-20 pcs mixed).
