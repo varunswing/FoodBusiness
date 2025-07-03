@@ -1,16 +1,15 @@
-Here's how you can **start a cloud kitchen in Patna within ₹3–5 lakh**, while keeping time investment minimal and ROI promising:
+Here's how you can **start a cloud kitchen in Dhanbad**, while keeping time investment minimal and ROI promising:
 
 ---
 
-## 📍 1. **Best Area (Low Rent + High Demand)**
+## 📍 1. Best Areas in Dhanbad for Cloud Kitchen**
 
-Target areas with strong food delivery demand but **affordable rent**:
+Target areas with **high delivery demand** + **moderate rent**:
 
-* 🏘 **Bhootnath Road** – Student & family area
-* 🏙 **Kankarbagh** – Densely populated, mid-income zone
-* 🛣 **Ashiana Nagar / Rajiv Nagar** – Residential with growing delivery base
-
-🔹 *Avoid central high-rent zones like Frazer Road or Dak Bungalow for now.*
+* **Hirapur** – Central, student + office crowd
+* **Saraidhela** – Upper-middle class residential area
+* **Baramuri** – Near schools/colleges, rising food delivery demand
+* **Bank More** – High order volume but slightly higher rent
 
 ---
 
